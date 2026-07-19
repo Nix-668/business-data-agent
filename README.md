@@ -6,7 +6,7 @@
 
 - API 文档：<https://business-data-agent.onrender.com/docs>
 - 健康检查：<https://business-data-agent.onrender.com/health>
-- Dify 应用：发布后在这里补充 Web App 地址
+- - Dify 应用：https://udify.app/chat/fv0b4W8Wudao0sj1
 
 > Render 免费实例休眠后，第一次请求可能需要等待约 1 分钟。
 
